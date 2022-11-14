@@ -1,0 +1,14 @@
+.body_background 
+{
+    background-image:url(hOye.gif);
+    background-position: left;
+    background-size: auto;
+}
+#myCanvas
+{
+   border-width: 10px;
+   background-color: beige;
+   border-style: ridge;
+   border-color: deeppink;
+}
+
